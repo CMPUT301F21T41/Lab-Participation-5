@@ -1,5 +1,5 @@
 package com.example.habbit;
 
-public class Circle extends Shape {
+public abstract class Circle {
 
 }
