@@ -2,5 +2,6 @@ package com.example.habbit;
 
 public abstract class Shape {
     private int x, y;
-    private String color = "blue";
+
+    String color = "master color!";
 }
